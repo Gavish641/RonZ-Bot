@@ -1,0 +1,44 @@
+{
+    "bot_id": "1227854609650028635",
+
+    "playerlist_channel": "1241951866514833448",
+    "playerlist_msg": "1246851865195319399",
+
+    "serverName": "Test",
+    "server_img": "https://cdn.discordapp.com/attachments/1246844645757943941/1246851718990528532/3fe74c23f26325b5adeb33d0da28cb29.jpg?ex=665de4a7&is=665c9327&hm=c33a3feff70f4649fa816f64db726605ac6ee3ca5ee16dcc533f76037987e1c9&",
+    
+    "serverIp": "181.215.141.25",
+    "serverPortal": "30120",
+
+    "ticket_logs": "1241951934575939594",
+    "welcomeChannel": "1227857328603271248",
+    "verifyChannelId": "1166778067746836594",
+    "serverId": "1223408921125982228",
+    "memberId": "1246862156473962558",
+    "boostsChannelId": "1166778121337450607",
+    "sugChannelId": "1166778132498485268",
+    "commandsChannelId": "1166778131064049774",
+    "muteRoleId": "1166777868190232689",
+    "ticketBlockRoleId": "1166777869490471013",
+    "allowlistRole": "1166777864327266344",
+
+    "questionParent": "1246855955476381799",
+    "donationParent": "1246856018638536835",
+    "hirurBanParent": "1246856059486863481",
+    "reportParent": "1246856002180219011",
+    "interviewParent": "1246856146741100706",
+
+    "staffRole": "1245521057985855508",
+    "headStaffRole": "1166777852226715720",
+    "managementRole": "1166777851425607741",
+    "serverManagerRole": "1166777850507042817",
+
+    "waitingRole": "1166777865346490419",
+
+    "livesChannel": "1166778129692512256",
+    "clipChannel": "1166778128333553774",
+
+    "ticketLogs": "1166796876507512862",
+
+    "maxPlayers": "46"
+}
